@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+
+    <entry>
+        <key>ff_data_rate</key>
+        <value>Hola, este es el valor local por defecto.</value>
+    </entry>
+
+</defaultsMap>
