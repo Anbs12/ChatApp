@@ -110,4 +110,8 @@ dependencies {
     implementation("com.google.firebase:firebase-appcheck-playintegrity:19.0.0")
     // Firebase App Check Debug Provider (solo para desarrollo)
     implementation("com.google.firebase:firebase-appcheck-debug")
+
+    // Dependencia específica para Remote Config (sin versiones porque la BoM lo maneja)
+    implementation("com.google.firebase:firebase-config")
+
 }
