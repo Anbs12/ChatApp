@@ -37,4 +37,6 @@ class ChatApplication : Application() {
             // Para producción, cambia a: PlayIntegrityAppCheckProviderFactory.getInstance()
         )*/
     }
+
+    //Cambio nuevo 1
 }
